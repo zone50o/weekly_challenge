@@ -22,7 +22,7 @@ public class Main {
 		menu.add(new MenuItem("Water","Drink",1.20));
 		menu.add(new MenuItem("Orange juice","Drink",2.15));
 		
-		CoffeeShop shop = new CoffeeShop("Gamer CoffeeShop", menu, new ArrayList<MenuItem>());
+		CoffeeShop shop = new CoffeeShop("Revature CoffeeShop", menu, new ArrayList<MenuItem>());
 		
 		System.out.println("Welcome to "+shop.getName());
 	    
