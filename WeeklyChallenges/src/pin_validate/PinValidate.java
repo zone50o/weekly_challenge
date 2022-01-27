@@ -1,6 +1,6 @@
 package pin_validate;
 
-public class Main {
+public class PinValidate {
 	public static void main(String[] args) {
 		System.out.println(validate("121317"));
 
